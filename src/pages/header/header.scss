@@ -1,0 +1,19 @@
+page-header {
+  .mainHeader {
+    align-items: center;
+    background-color: #5cc6cc;
+    border-bottom: 1px solid #53bdc2;
+    display: flex;
+    height: 125px;
+    justify-content: space-between;
+    position: fixed;
+    padding-top: 3px;
+    width: 100%;
+    z-index: 999;
+
+    .toolbar-background-md {
+        background: transparent;
+    }
+  }
+
+}
